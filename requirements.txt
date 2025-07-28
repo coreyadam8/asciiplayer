@@ -1,0 +1,10 @@
+# Core packages
+pillow
+numpy
+
+# GUI
+pyqt6
+pygame
+
+# Optional tools for video/audio conversion (documented usage only)
+# ffmpeg (should be installed system-wide, not via pip)
