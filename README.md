@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### Terminal Player (no audio):
 
 ```bash
-python ascii_player.py
+python asciiplayer.py
 ```
 
 ### rickroll player + base64 never gonna give you up
