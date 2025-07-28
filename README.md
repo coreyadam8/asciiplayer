@@ -2,6 +2,8 @@
 
 This project is a terminal and GUI-based animated player for Rick Astley's "Never Gonna Give You Up" rendered entirely in ASCII art. It also includes optional audio playback embedded directly using base64, allowing you to enjoy the iconic song without requiring any external media files.
 
+Including three tools; mp4toframe.py which converts mp4 to frame files, frame2ascii.py which converts your frames to ascii text files and Mirrorframe.py which will mirror specific frames reversing in sequential order.
+
 ## Features
 
 * ▶ Animated playback of frames as ASCII art
